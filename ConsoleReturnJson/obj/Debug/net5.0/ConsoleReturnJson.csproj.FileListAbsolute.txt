@@ -1,0 +1,16 @@
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.exe
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.deps.json
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.runtimeconfig.json
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.runtimeconfig.dev.json
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.dll
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ref\ConsoleReturnJson.dll
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\bin\Debug\net5.0\ConsoleReturnJson.pdb
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.csprojAssemblyReference.cache
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.AssemblyInfoInputs.cache
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.AssemblyInfo.cs
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.dll
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ref\ConsoleReturnJson.dll
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.pdb
+C:\Users\Enin\RiderProjects\ConsoleReturnJson\ConsoleReturnJson\obj\Debug\net5.0\ConsoleReturnJson.genruntimeconfig.cache
